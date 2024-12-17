@@ -4,16 +4,15 @@
 This project is a Python script that fetches data from the Star Wars API (SWAPI), processes it, cleans it, and saves it into CSV files. It demonstrates basic techniques for handling API requests, transforming data with pandas, and saving processed data to CSV files.
 
 
-
+---
 ## Table of Contents
-- [Introduction](#introduction)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Explanation](#explanation)
 
 
-
+---
 ## Requirements
 This script requires the following Python libraries:
 
@@ -24,7 +23,7 @@ These dependencies can be installed using pip from the requirements.txt file.
 
 
 
-
+---
 ## Installation
 To install the required dependencies, follow these steps:
 
@@ -43,7 +42,7 @@ pip install -r requirements.txt
 
 
 
-
+---
 ## Usage
 Run the script: After installing the necessary dependencies, you can execute the script by running:
 
@@ -53,7 +52,7 @@ python script.py
 
 
 
-
+---
 ## Output Files: The script will create two folders: raw and work.
 
 - raw/ will contain the original data fetched from the API (people.csv, planets.csv, films.csv).
@@ -61,7 +60,7 @@ python script.py
 
 
 
-
+---
 ## Explanation
 
 
